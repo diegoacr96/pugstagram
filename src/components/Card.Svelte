@@ -17,6 +17,7 @@
   export let like = false;
 
   let isModal = false;
+
   function handleModal() {
     isModal = !isModal;
   }
