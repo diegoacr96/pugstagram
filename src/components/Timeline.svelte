@@ -1,6 +1,7 @@
 <script>
   import Loading from "./Loading.svelte";
   import Card from "./Card.svelte";
+
   export let posts = [];
 </script>
 
